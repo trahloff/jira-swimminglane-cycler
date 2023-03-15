@@ -1,0 +1,11 @@
+{
+    "name": "Jira Swimminglane Cycler",
+    "version": "0.1.0",
+    "description": "Cycle through Jira swimminglanes",
+    "manifest_version": 3,
+    "author": "Toby Rahloff",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Jira Swimminglane Cycler"
+    }
+}
